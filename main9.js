@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
 });
 
 function detectOrientation(){
-    let orientation = window.screen.orientation.angle;
+    let orientation = window.orientation;
     if (orientation ===0){
       document.getElementById('rotateScreen').style.display = "block";
     } else {
