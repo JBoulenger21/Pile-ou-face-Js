@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Show / Hide Password</title>
+  </head>
+  <body>
+    <p>
+      <span>Password:</span> <input type="password" id="input"><br>
+      <input id="checkbox" type="checkbox"><span id="display">Show</span>
+    </p>
+    <script type="text/javascript" src="main10.js"></script>
+  </body>
+</html>
