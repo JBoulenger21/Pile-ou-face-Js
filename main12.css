@@ -1,0 +1,21 @@
+.container {
+  width: 500px;
+  background-color: #DCDCDC;
+  padding:0.0em 1px;
+}
+
+.progress{
+  background-color:#B32440;
+  color: #DCDCDC;
+  text-align: center;
+  display: block;
+}
+#alertBar{
+  background-color:#B32440;
+  color: #DCDCDC;
+  text-align: center;
+  display: none;
+}
+#imgdisp{
+  display: none;
+}
